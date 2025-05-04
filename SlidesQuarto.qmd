@@ -1,0 +1,49 @@
+---
+title: "Atividade 3"
+author: "João Marcelo e Marcus Xavier"
+format: 
+  revealjs:
+    theme: dark
+    transition: fade
+    slide-number: true
+    css: meu-tema.css  
+editor: visual
+---
+
+## Objetivos de Divulgação
+
+-   **Ampliar o alcance** do conteúdo, levando informação de qualidade para novas audiências
+
+-   **Construir autoridade** na área, posicionando-se como fonte confiável e engajada
+
+-   **Estimular interações** (comentários, compartilhamentos) para fortalecer a comunidade
+
+-   **Converter seguidores** em participantes ativos (inscrições, downloads, inscrições em newsletter)
+
+------------------------------------------------------------------------
+
+***Público‑Alvo e Segmentação***
+
+-   **Mapear perfis segundo faixa etária e interesses:**
+
+Gen Z (18–24),
+
+Gen Y (25–34)
+
+Gen X (35–45)
+
+-   **Entender canais preferidos:** formatos curtos (Reels, TikTok) vs. longos (YouTube, LinkedIn)
+
+-   **Exemplo de tema:** “Edição Genômica com CRISPR/Cas9” pode ilustrar como adaptar o discurso técnico para cada perfil
+
+------------------------------------------------------------------------
+
+![](images/ChatGPT Image 4 de mai. de 2025, 19_15_36-01.png)
+
+------------------------------------------------------------------------
+
+***Monitoramento e Ajustes Contínuos***
+
+-   **Analises principais:** alcance (impressões), engajamento (taxa de interação), conversão (cliques, inscrições)
+
+-   **Feedback** comentários da comunidade e ajuste tom, temas e formatos periodicamente.
