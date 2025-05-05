@@ -10,40 +10,44 @@ format:
 editor: visual
 ---
 
-## Objetivos de Divulgação
+## Tema e Proposta  
 
--   **Ampliar o alcance** do conteúdo, levando informação de qualidade para novas audiências
+**Tema:** Animações educativas sobre microrganismos em Blender
 
--   **Construir autoridade** na área, posicionando-se como fonte confiável e engajada
 
--   **Estimular interações** (comentários, compartilhamentos) para fortalecer a comunidade
 
--   **Converter seguidores** em participantes ativos (inscrições, downloads, inscrições em newsletter)
 
-------------------------------------------------------------------------
-
-***Público‑Alvo e Segmentação***
-
--   **Mapear perfis segundo faixa etária e interesses:**
-
-Gen Z (18–24),
-
-Gen Y (25–34)
-
-Gen X (35–45)
-
--   **Entender canais preferidos:** formatos curtos (Reels, TikTok) vs. longos (YouTube, LinkedIn)
-
--   **Exemplo de tema:** “Edição Genômica com CRISPR/Cas9” pode ilustrar como adaptar o discurso técnico para cada perfil
+**Proposta:** Criar conteúdos visuais cativantes que explicam o mundo microbiano — como funciona uma célula bacteriana, vírus, fungos — com visual 3D e movimento, tornando a microbiologia mais compreensível e atraente para o público leigo.
 
 ------------------------------------------------------------------------
 
-![](images/ChatGPT Image 4 de mai. de 2025, 19_15_36-01.png)
+## Público-Alvo: Geração Z (13–24 anos)  
+
+**Por que essa geração?**
+- Altamente visual, acostumada com conteúdos rápidos e dinâmicos.     
+
+**Em fase de estudos** (ensino médio ou superior), com curiosidade sobre ciência e tecnologia.      
+
+**Alto engajamento** com conteúdos que unem entretenimento e educação.      Potencial de viralização e compartilhamento entre pares.
 
 ------------------------------------------------------------------------
 
-***Monitoramento e Ajustes Contínuos***
+## Plataforma Escolhida: YouTube
 
--   **Analises principais:** alcance (impressões), engajamento (taxa de interação), conversão (cliques, inscrições)
+**Por que o YouTube?**     
 
--   **Feedback** comentários da comunidade e ajuste tom, temas e formatos periodicamente.
+- Ótimo para vídeos educativos mais longos e detalhados (1–10 minutos).   
+
+- Alta credibilidade e busca ativa por conteúdo científico.      
+
+------------------------------------------------------------------------
+
+## Planejamento de Conteúdo  
+
+- 1 vídeo por semana, com duração de 30–60 segundos.     
+
+- Tópicos: “Como uma bactéria se move?”, “Por que o álcool mata vírus?”, “O que é o DNA?”     
+
+- Estilo visual: Blender + legendas + música de tendência.    
+  
+- Reutilização do conteúdo para reels no Instagram e shorts no YouTube.
